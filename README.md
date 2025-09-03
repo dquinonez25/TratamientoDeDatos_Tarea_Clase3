@@ -13,3 +13,34 @@ Se comprobó hallazo de las 10 apps más populares según el número de instalac
 Mediante visualización entre variables numéricas en un heatmap se validaron correlaciones positivas y negativas lo cual da hallazgo que una correlación positiva fuerte, indica que las apps más descargadas tienden a recibir más calificaciones; una correlación débil o moderada, sugiere que una app muy descargada no necesariamente tiene mejor calificación; y que correlación negativa o cercana a cero, indicó que las apps más populares no siempre son las mejor valoradas.
 
 Cualquier insight o información relevante: Se puede detallar que analizar éste dataset nos conectó con el ámbito real de los consumidores, al mismo tiempo dio una emoción saber que no existe status económico o edad específica para el uso de apps, unos con un enfoque mas especifico por temas de estudio, negocio, personales o labores profesionales, y otros por temas de apoyarse con la inteligencia artificial, incluso conocer que personas con discapacidad han tenido un espacio muy importante en el uso de apps que les brindan un acompañamiento digital en sus rutinas diarias y un apoyo en su estilo de vida.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conclusión y resultados:
+
+Con éste detallado análisis se identificó que hay un campo muy abierto que cada día crece a pasos agigantados permitiendo a las empresas tomar decisiones estratégicas y de gran valor para sus marcas. Pero más que todo permitiendo a los usuarios poder probar varias alternativas que se ajusten a su necesidad y estar en su decisión lo que consumen si es gratis o con pago, teniendo presente que cada ámbito les generará una experiencia diferente de satisfacción. 
+Adicional la implementación de análisis de machine learning con Scikit-learn sirvió para transformar datos en conocimiento útil, automatizar toma de decisiones y descubre patrones ocultos entre los que destacan predicción de resultados, segmentación de clientes y análisis de sentimientos, e incluso gráficos que proyectan estadísticas e información a usuarios que comprenden mejor así, los cuales son fundamentales para alcanzar objetivos en los proyectos.
