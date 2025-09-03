@@ -13,6 +13,7 @@
 
 
 
+
 Descripción del dataset: El conjunto de datos Google Play Store Apps es un repositorio que contiene información sobre las aplicaciones de Google Play, se incluye detalles de las aplicaciones como su nombre, categoría, valoración, número de reseñas, tamaño, tipo (gratis/pago), contenido de calificación y género. Este conjunto de datos se utiliza para realizar un Análisis Exploratorio de Datos para descubrir patrones, tendencias y relaciones en el mercado de aplicaciones móviles, ayudando a los desarrolladores y profesionales a comprender las preferencias de los usuarios y el rendimiento de las apps. 
 
 Explicación de los pasos de limpieza y transformación: Se importa la librería Matplotlib, se utiliza para crear visualizaciones estáticas, animadas e interactivas en Python.La biblioteca Seaborn permite visualizar datos de Python basada en matplotlib. Proporciona una interfaz de alto nivel para crear gráficos estadísticos atractivos e informativos.
@@ -23,4 +24,5 @@ Otro dato importante que se encuentra en la base es el tamaño de las aplicacion
 
 La regresión logística obtuvo una precisión mayor al 90%para el análisis del modelo, por lo que se convierte en un algortimo más eficaz en este contexto. Esta alta
 precisión indica que la regresión logísitca puede predecir de forma fiable el sentimiento de los usuarios basándose en los atributos de la aplicación, lo que proporciona a los desarrolladores información útil para la optimización de la aplicación.
+
 
