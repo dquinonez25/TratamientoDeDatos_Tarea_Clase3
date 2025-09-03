@@ -21,3 +21,6 @@ Principales hallazgos del análisis: Aunque las aplicaciones de categorías como
 
 Otro dato importante que se encuentra en la base es el tamaño de las aplicaciones. La mayoría de las aplicaciones instaladas no superan los 200 megabytes, por lo que la mayoría de los consumidores no quieren descargar aplicaciones que ocupen demasiado espacio en el almacenamiento de sus dispositivos. Además, Google solo permite aplicaciones de menos de 500 MB.
 
+La regresión logística obtuvo una precisión mayor al 90%para el análisis del modelo, por lo que se convierte en un algortimo más eficaz en este contexto. Esta alta
+precisión indica que la regresión logísitca puede predecir de forma fiable el sentimiento de los usuarios basándose en los atributos de la aplicación, lo que proporciona a los desarrolladores información útil para la optimización de la aplicación.
+
