@@ -39,7 +39,6 @@ Cualquier insight o información relevante: Se puede detallar que analizar éste
 
 
 
-
 Conclusión y resultados:
 
 Con éste detallado análisis se identificó que hay un campo muy abierto que cada día crece a pasos agigantados permitiendo a las empresas tomar decisiones estratégicas y de gran valor para sus marcas. Pero más que todo permitiendo a los usuarios poder probar varias alternativas que se ajusten a su necesidad y estar en su decisión lo que consumen si es gratis o con pago, teniendo presente que cada ámbito les generará una experiencia diferente de satisfacción. 
